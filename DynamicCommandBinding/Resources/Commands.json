@@ -1,0 +1,13 @@
+{
+  "Commands": [
+    {
+      "EventName": "PreviewMouseLeftButtonDown",
+      "MethodToExecute": "MessageBoxShow",
+      "Args": "Test"
+    },
+    {
+      "EventName": "MouseRightButtonUp",
+      "MethodToExecute": "CloseApp"
+    }
+  ]
+}
